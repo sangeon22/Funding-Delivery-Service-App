@@ -1,12 +1,14 @@
 # Funding-Delivery-App
 # 펀딩 배달 앱 (단체 주문 앱)
 
+
 React-Native / 2021 Graduation Project
 - HTML + CSS +JavaScript
 - Expo
 - Firebase
 - nodeJS
 - Visual Studio Code
+
 
 [주요 기능]
 1) 학생들에게 학식 메뉴 정보 제공
