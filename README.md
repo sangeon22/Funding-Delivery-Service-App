@@ -26,7 +26,8 @@ React-Native / 2021 Graduation Project
 9) 로그인, 로그아웃, 장바구니 등의 상세한 기능 구현
 
 [Menu Structure]
-https://github.com/sangeon22/Funding-Delivery-Service-App/blob/master/README.md
+![image](https://user-images.githubusercontent.com/86394597/153150875-4398d4f9-7c99-4d37-98fb-77f4b4f3e8a0.png)
+
 
 
 [기능적 요구사항]
@@ -63,8 +64,14 @@ https://github.com/sangeon22/Funding-Delivery-Service-App/blob/master/README.md
 
 ![image](https://user-images.githubusercontent.com/86394597/153147033-e635cad4-d7fc-4ff5-b001-ff3f6471f8b9.png)
 ![image](https://user-images.githubusercontent.com/86394597/153147174-0f8625f0-5558-4b3e-8594-1d0b545f4b3b.png)
-![image](https://user-images.githubusercontent.com/86394597/153147276-a1df82db-474c-45fc-98ba-f5256d520c76.png)
 ![image](https://user-images.githubusercontent.com/86394597/153150018-8762106c-ea58-4672-961f-7cacaae1d970.png)
+![image](https://user-images.githubusercontent.com/86394597/153151446-756fc2fa-9fa3-49a4-ba24-39376cea8f15.png)
+![image](https://user-images.githubusercontent.com/86394597/153151709-78b0af09-db4a-4d24-93c3-ca45b0454a25.png)
+![image](https://user-images.githubusercontent.com/86394597/153151918-f69a7479-c797-425e-8c04-2752a8c465fb.png)
+![image](https://user-images.githubusercontent.com/86394597/153152574-f72c3f46-10b2-4f5d-925a-3723d75b243c.png)
+![image](https://user-images.githubusercontent.com/86394597/153152444-78fd4834-a227-4927-be6b-72ed4641e73c.png)
+![image](https://user-images.githubusercontent.com/86394597/153152781-a28ada92-fea9-48ce-b75d-9a7da00fd871.png)
+![image](https://user-images.githubusercontent.com/86394597/153152804-1eaf76bb-a5c5-4e16-8a2d-c29b1dd34d31.png)
 
 
 
