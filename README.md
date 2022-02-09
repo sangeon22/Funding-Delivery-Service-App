@@ -26,20 +26,23 @@ React-Native / 2021 Graduation Project
 9) 로그인, 로그아웃, 장바구니 등의 상세한 기능 구현
 
 [Menu Structure]
+https://github.com/sangeon22/Funding-Delivery-Service-App/blob/master/README.md
 
-![image](https://user-images.githubusercontent.com/86394597/153146175-4a8d21e4-48ab-4af9-acb2-e196a228d8cb.png)
 
 [기능적 요구사항]
 
 ![image](https://user-images.githubusercontent.com/86394597/153146230-eac46528-d1a6-4e5e-9229-2112593e084a.png)
 
+
 [시스템 구조도]
 
 ![image](https://user-images.githubusercontent.com/86394597/153146274-90ca4cff-3e2f-4abe-b802-069418383420.png)
 
+
 [모듈 상세 설명서 UI포함]
 
 ![image](https://user-images.githubusercontent.com/86394597/153146315-89761075-597f-484c-a30b-59e130d93d4d.png)
+
 
 [일부 UI 설명서]
 
@@ -55,17 +58,14 @@ React-Native / 2021 Graduation Project
 ![image](https://user-images.githubusercontent.com/86394597/153146931-282ec508-221d-4afa-a84d-f3bc203f89f8.png)
 
 
+
 [일부 실행 화면]
 
 ![image](https://user-images.githubusercontent.com/86394597/153147033-e635cad4-d7fc-4ff5-b001-ff3f6471f8b9.png)
 ![image](https://user-images.githubusercontent.com/86394597/153147174-0f8625f0-5558-4b3e-8594-1d0b545f4b3b.png)
 ![image](https://user-images.githubusercontent.com/86394597/153147276-a1df82db-474c-45fc-98ba-f5256d520c76.png)
-![image](https://user-images.githubusercontent.com/86394597/153147551-efa981dc-dfc1-46e4-8e70-59f135506e5d.png)
-![image](https://user-images.githubusercontent.com/86394597/153147638-3d47251d-a1da-4c8a-b4e6-386f97c72dfa.png)
-![image](https://user-images.githubusercontent.com/86394597/153147724-5bbf5d19-271a-4f13-bd41-c0e223b361e2.png)
-![image](https://user-images.githubusercontent.com/86394597/153147917-a4ec715b-dad0-4d68-86a2-097ad991246b.png)
-![image](https://user-images.githubusercontent.com/86394597/153148041-82f01b29-c3d5-4fd7-8ffd-f57f321c95f7.png)
-![image](https://user-images.githubusercontent.com/86394597/153148131-a525b036-abd7-4035-b9b0-d7dd6a3efb1b.png)
+![image](https://user-images.githubusercontent.com/86394597/153150018-8762106c-ea58-4672-961f-7cacaae1d970.png)
+
 
 
 
