@@ -2,7 +2,7 @@
 # 펀딩 배달 앱 (단체 주문 앱)
 
 
-React-Native / 2021 Graduation Project
+React-Native + Node.js / 2021 Graduation Project
 
 [개발 환경]
 
